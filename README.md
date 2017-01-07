@@ -1,3 +1,3 @@
 # [Eugene Kim](http://eugenekim.net)
 
-Homepage for www.eugenekim.net
+Homepage for eugenekim.net
